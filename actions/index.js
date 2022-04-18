@@ -1,0 +1,7 @@
+require("./start")
+require("./inline")
+require("./help")
+// require("./echo")
+require("./photo")
+require("./std")
+require("./mode")
